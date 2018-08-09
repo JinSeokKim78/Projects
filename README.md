@@ -18,6 +18,7 @@
 </div>
 
 ### *● There are more useful 'tasks' on the Sales Management System.*
+### *To make it concise, the more 'tasks' are't uploaded.*
 <br>
 <div>
 <img src = "https://user-images.githubusercontent.com/42164506/43885144-02016d66-9bf3-11e8-8539-2cdb8ba33460.JPG">
@@ -41,4 +42,5 @@
 <img src = "https://user-images.githubusercontent.com/42164506/43885405-c288be36-9bf3-11e8-89b8-91ded8ade0ab.JPG">
 </div>
 
+### *And also the Payment System has a powful function that makes payment more easy and fast.*
 ### *Thanks!*
