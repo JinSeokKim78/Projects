@@ -16,7 +16,7 @@
 <div>
 <img src = "https://user-images.githubusercontent.com/42164506/43884968-876008e2-9bf2-11e8-817a-04c322986531.JPG">
 </div>
-<br></br>
+
 ### *● There are more useful **'tasks'** on the Sales Management System.*
 <br>
 <div>
