@@ -40,5 +40,5 @@
 <div>
 <img src = "https://user-images.githubusercontent.com/42164506/43885405-c288be36-9bf3-11e8-89b8-91ded8ade0ab.JPG">
 </div>
-<br>
-Thanks!
+
+### *Thanks!*
