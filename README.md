@@ -16,7 +16,7 @@ Introduce the projects which are the best of the best in my career.
 <img src = "https://user-images.githubusercontent.com/42164506/43884968-876008e2-9bf2-11e8-817a-04c322986531.JPG">
 </div>
 <br>
-<div>There are more useful tasks on the sales ...</div>
+<div>There are more useful 'tasks' on the Sales Management System...</div>
 <br>
 <div>
 <img src = "https://user-images.githubusercontent.com/42164506/43885144-02016d66-9bf3-11e8-8539-2cdb8ba33460.JPG">
