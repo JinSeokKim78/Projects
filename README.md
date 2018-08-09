@@ -1,5 +1,5 @@
 # Projects
-<div style="font-weight:bold">
+<div style="font:bold">
 ● Introduce the projects which are the best of the best in my career.
 <\div>
 <div>
