@@ -42,8 +42,10 @@ Introduce the projects which are the best of the best in my career.
 <div>
 <img src = "https://user-images.githubusercontent.com/42164506/43885405-c288be36-9bf3-11e8-89b8-91ded8ade0ab.JPG">
 </div>
+/**
 <div>
 <img src = "https://user-images.githubusercontent.com/42164506/43885453-e27b2ae4-9bf3-11e8-881d-cdbc40ec15e7.JPG">
 </div>
+**/
 <br>
 Thanks!
