@@ -1,5 +1,4 @@
 # Projects
-<br>
 # ● Introduce the projects which are the best of the best in my career.
 <br>
 <div>
